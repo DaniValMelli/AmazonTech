@@ -12,7 +12,7 @@ Identificar por medio de videos las vulnerabilidades de la Amazonia Colombiana, 
 
 ### Objetivo 2 (Natural Language Processing). 
 
-La librería contiene 3 funciones de procesamiento de noticias escritas, que buscan identificar entidades que afectan directa o indirectamente en la deforestación del Amazonas colombiano, además identifica de entre cuatro categorías distintas (MINERÍA, CONTAMINACIÓN, DEFORESTACIÓN y NINGUNA) la perteneciente a la noticia procesada. El modelo para extracción de entidades es el se basa en la librería **flair**, el cual está re-entrenado con los sets de noticias ya etiquetados. además se utiliza un enfoque 
+La librería contiene 3 funciones de procesamiento de noticias escritas, que buscan identificar entidades que afectan directa o indirectamente en la deforestación del Amazonas colombiano, además identifica de entre cuatro categorías distintas (MINERÍA, CONTAMINACIÓN, DEFORESTACIÓN y NINGUNA) la perteneciente a la noticia procesada. El modelo para extracción de entidades se basa en la librería **flair**, el cual está pre-entrenado con los sets de noticias ya etiquetados. Además se utiliza un enfoque 
 
 Las funciones son:
 - ner_from_str(text, output_path)
