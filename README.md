@@ -7,7 +7,7 @@ Estado: Terminado, con posibilidad de actualización.
 
 ### Objetivo 1.
 
-Identificar por medio de videos las vulnerabilidades de la Amazonia Colombiana, identificando objetos de interés en recuadros,  AMAZONTECH realizó sampleo de imágenes a partir de los videos proporcionados, y por medio del uso de una librería de Open Source llamada YOLO se entrenaron dos modelos, el primero para detectar objetos de interés como vehiculos y casa, y el segundo encargado de extraer los datos de los caracteres mostrados en el video, de esta manera se proporciona apoyo al personal de la Fuerza Aeroespacial, en el proceso de examinar la región.
+Identificar por medio de videos las vulnerabilidades de la Amazonia Colombiana, identificando objetos de interés en recuadros,  AMAZONTECH realizó captura de imágenes a partir de los videos proporcionados, y por medio del uso de una librería Open Source llamada YOLO se entrenaron dos modelos, el primero para detectar objetos de interés como vehiculos y casas, y el segundo encargado de extraer los datos de los caracteres mostrados en el video, de esta manera se proporciona apoyo al personal de la Fuerza Aeroespacial, en el proceso de examinar la región.
 
 
 ### Objetivo 2 (Natural Language Processing). 
